@@ -6,7 +6,12 @@ namespace Gitshow
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int age = 18;
+            string name = "hzh";
+            Console.WriteLine("huhfghfb".Substring(3,3));
+            Console.Read();
+
+            
         }
     }
 }
